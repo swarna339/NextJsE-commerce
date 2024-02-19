@@ -55,7 +55,7 @@ const components = [
 export default function TopNavigation() {
   return (
     <NavigationMenu>
-      <h1 className="font-bold mr-5 text-2xl">SamanLo</h1>
+      <h1 className="font-bold mr-5 text-2xl">MyShop</h1>
       <NavigationMenuList>
         <NavigationMenuItem>
           <Link href="/home" legacyBehavior passHref>
